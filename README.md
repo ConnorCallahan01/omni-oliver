@@ -1,2 +1,12 @@
 # omni-oliver
-Oliver project repository for f9ed410b-c307-43e2-94b1-99447200eeaa
+
+Oliver project repository.
+
+## Folder Structure
+
+- `repository/workflow-analysis/`
+- `repository/business-case/`
+- `repository/ai-opportunity-assessment/`
+- `repository/functional-prototype/`
+- `repository/technical-specifications/`
+- `repository/meeting-notes/`
